@@ -1,0 +1,6 @@
+.Carousel {
+    margin-top: 56px;
+}
+.Carousel img {
+    height: calc(100vh - 56px);
+}
