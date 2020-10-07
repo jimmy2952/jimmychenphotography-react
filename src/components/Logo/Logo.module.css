@@ -1,0 +1,9 @@
+.Logo {
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+.Logo img {
+    height: 50px;
+}
