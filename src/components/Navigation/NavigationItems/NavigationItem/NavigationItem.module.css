@@ -1,7 +1,8 @@
 .NavigationItem {
     margin: 10px 0;
     border-style: border-box;
-    display: block;
+    display: flex;
+    align-items: center;
     width: 100%;
 }
 

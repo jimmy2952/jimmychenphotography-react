@@ -23,7 +23,8 @@ const portfolioItem = props => (
                 display: "flex",
                 alignItems: "center",
                 justifyContent: "center",
-                flexWrap: "wrap"
+                flexWrap: "wrap",
+                cursor: "pointer"
               }}
             >
               {props.imageType.map((p, idx) => (

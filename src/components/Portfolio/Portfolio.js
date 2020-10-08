@@ -94,7 +94,7 @@ const longEx = [longEx1, longEx2, longEx3, longEx4, longEx5, longEx6, longEx7, l
 const other = [other1, other2, other3, other4, other5, other6, other7, other8, other9, other10, other11, other12, other13, other14]
 
 const portfolio = props => (
-    <div style={{marginTop: "70px"}}>
+    <div style={{marginTop: "10vh"}}>
         <PortfolioItem imageType={nightScape}>城市夜景</PortfolioItem>
         <PortfolioItem imageType={nightScapeRiver}>夜晚水岸</PortfolioItem>
         <PortfolioItem imageType={dawn}>晨昏</PortfolioItem>
