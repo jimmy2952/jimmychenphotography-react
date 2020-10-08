@@ -50,10 +50,12 @@
         transition: 0.4s;
     }
 
-    .NavigationItem:hover a::before,
-    .NavigationItem a:active,
-    .NavigationItem a.active {
-        color: white;
+    .NavigationItem a:hover::before,
+    .NavigationItem a:active::before,
+    .NavigationItem a.active::before {
         width: 100%;
+    }
+    .NavigationItem a:hover {
+        background-color: #4b4b4b;;
     }
 }

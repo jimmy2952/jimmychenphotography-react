@@ -5,6 +5,7 @@ import App from './App';
 import * as serviceWorker from './serviceWorker';
 import "lightgallery.js/dist/css/lightgallery.css"
 
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
