@@ -11,7 +11,8 @@
     text-decoration: none;
     width: 100%;
     box-sizing: border-box;
-    display: block;
+    display: flex;
+    align-items: center;
 } 
 
 .NavigationItem a:hover,

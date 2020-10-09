@@ -4,9 +4,11 @@ import classes from './Logo.module.css'
 import { Link } from 'react-router-dom'
 
 const logo = props => (
-    <div className={classes.Logo}>
-        <Link to="/"><img src={JimmyLogo} alt='Jimmy Chen Photography' /></Link>
-    </div>
+    <Link to="/">
+        <div className={classes.Logo}>
+            <img src={JimmyLogo} alt='Jimmy Chen Photography' />
+        </div>
+    </Link>
 )
 
 export default logo
