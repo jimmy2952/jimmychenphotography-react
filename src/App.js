@@ -12,15 +12,13 @@ class App extends Component {
     return (
         <div>
           <BrowserRouter>
-            <Layout>
-                
-            </Layout>
+            <Layout />
             <Switch>
-              <Route exact path="/" component={Carousel} />
               <Route path="/about" component={About} />
               <Route path="/portfolio" component={Portfolio} />
               <Route path="/map" component={Map} />
-              
+              <Route exact path="/" component={Carousel} />
+              <Redirect to="/" />
             </Switch>
           </BrowserRouter>
         </div>
