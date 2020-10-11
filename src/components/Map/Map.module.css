@@ -1,0 +1,13 @@
+.Map {
+    margin-top: 8vh;
+    padding: 0 150px;
+    display: flex;
+    justify-content: space-between;
+    overflow: hidden;
+}
+
+@media (max-width: 499px) {
+    .Map {
+        padding: 0 10px;
+    }
+}

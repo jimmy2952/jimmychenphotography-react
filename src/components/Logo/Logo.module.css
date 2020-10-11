@@ -7,3 +7,8 @@
 .Logo img {
     height: 50px;
 }
+@media (max-width: 499px) {
+    .Logo img {
+        height: 35px;
+    }
+}

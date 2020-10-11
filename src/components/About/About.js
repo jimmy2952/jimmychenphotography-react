@@ -21,7 +21,7 @@ const about = props => (
                 <a href="https://www.facebook.com/jimmychenphoto/" target="_blank" >
                     <img className={classes.facebook} src={fb} alt=""/>
                 </a>
-                <a href="https://instagram.com/jimmychen_photography?igshid=xtd7t6xximfc" target="_blank">
+                <a href="https://instagram.com/jimmychen_photography/" target="_blank">
                     <img className={classes.instagram} src={ig} alt="" />
                 </a>
                 <p>我的E-mail：jimmy2952@gmail.com</p>

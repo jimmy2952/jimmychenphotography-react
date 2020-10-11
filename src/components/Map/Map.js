@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import TaiwanMap from './TaiwanMap/TaiwanMap'
-import HoverSection from './HoverSection/HoverSection'
+import classes from './Map.module.css'
 
 class Map extends Component {
     state = {
@@ -8,7 +8,7 @@ class Map extends Component {
     }
     render() {
         return(
-            <div style={{marginTop: "8vh", padding: "0 150px", display: "flex", justifyContent: "space-between", overflow: "hidden"}}>
+            <div className={classes.Map}>
                 <TaiwanMap />
             </div>
         )

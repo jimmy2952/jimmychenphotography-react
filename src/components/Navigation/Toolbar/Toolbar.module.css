@@ -22,7 +22,16 @@
 }
 
 @media (max-width: 499px) {
+    .Toolbar {
+        padding: 0 20px;
+    }
     .DesktopOnly {
         display: none;
+    }
+    .logoCenter {
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%,-50%);
     }
 }

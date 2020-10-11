@@ -16,10 +16,11 @@ class App extends Component {
                 
             </Layout>
             <Switch>
+              <Route exact path="/" component={Carousel} />
               <Route path="/about" component={About} />
               <Route path="/portfolio" component={Portfolio} />
               <Route path="/map" component={Map} />
-              <Route exact path="/" component={Carousel} />
+              
             </Switch>
           </BrowserRouter>
         </div>
