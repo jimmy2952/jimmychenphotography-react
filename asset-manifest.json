@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/jimmychenphotography-react/static/css/main.a785182f.chunk.css",
-    "main.js": "/jimmychenphotography-react/static/js/main.4fa425e5.chunk.js",
-    "main.js.map": "/jimmychenphotography-react/static/js/main.4fa425e5.chunk.js.map",
+    "main.js": "/jimmychenphotography-react/static/js/main.317a814c.chunk.js",
+    "main.js.map": "/jimmychenphotography-react/static/js/main.317a814c.chunk.js.map",
     "runtime-main.js": "/jimmychenphotography-react/static/js/runtime-main.0d07db94.js",
     "runtime-main.js.map": "/jimmychenphotography-react/static/js/runtime-main.0d07db94.js.map",
     "static/css/2.fe7e759a.chunk.css": "/jimmychenphotography-react/static/css/2.fe7e759a.chunk.css",
-    "static/js/2.e74eb5d9.chunk.js": "/jimmychenphotography-react/static/js/2.e74eb5d9.chunk.js",
-    "static/js/2.e74eb5d9.chunk.js.map": "/jimmychenphotography-react/static/js/2.e74eb5d9.chunk.js.map",
+    "static/js/2.7572ca21.chunk.js": "/jimmychenphotography-react/static/js/2.7572ca21.chunk.js",
+    "static/js/2.7572ca21.chunk.js.map": "/jimmychenphotography-react/static/js/2.7572ca21.chunk.js.map",
     "index.html": "/jimmychenphotography-react/index.html",
-    "precache-manifest.ca3cd1113eaed280d39dea8248de6da3.js": "/jimmychenphotography-react/precache-manifest.ca3cd1113eaed280d39dea8248de6da3.js",
+    "precache-manifest.1720c5cd8d5ec71a7287bbb86f666b80.js": "/jimmychenphotography-react/precache-manifest.1720c5cd8d5ec71a7287bbb86f666b80.js",
     "service-worker.js": "/jimmychenphotography-react/service-worker.js",
     "static/css/2.fe7e759a.chunk.css.map": "/jimmychenphotography-react/static/css/2.fe7e759a.chunk.css.map",
     "static/css/main.a785182f.chunk.css.map": "/jimmychenphotography-react/static/css/main.a785182f.chunk.css.map",
-    "static/js/2.e74eb5d9.chunk.js.LICENSE.txt": "/jimmychenphotography-react/static/js/2.e74eb5d9.chunk.js.LICENSE.txt",
+    "static/js/2.7572ca21.chunk.js.LICENSE.txt": "/jimmychenphotography-react/static/js/2.7572ca21.chunk.js.LICENSE.txt",
     "static/media/001.jpg": "/jimmychenphotography-react/static/media/001.0aee388e.jpg",
     "static/media/001_compressed.jpg": "/jimmychenphotography-react/static/media/001_compressed.ba7a2bb4.jpg",
     "static/media/002.jpg": "/jimmychenphotography-react/static/media/002.f2944dca.jpg",
@@ -57,8 +57,8 @@
   "entrypoints": [
     "static/js/runtime-main.0d07db94.js",
     "static/css/2.fe7e759a.chunk.css",
-    "static/js/2.e74eb5d9.chunk.js",
+    "static/js/2.7572ca21.chunk.js",
     "static/css/main.a785182f.chunk.css",
-    "static/js/main.4fa425e5.chunk.js"
+    "static/js/main.317a814c.chunk.js"
   ]
 }

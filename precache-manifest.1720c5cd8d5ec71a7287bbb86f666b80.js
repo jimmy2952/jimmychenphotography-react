@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "30b2d5096f5b1e0b8ec1015639bc877d",
+    "revision": "96e03302eb01bb3fd5415d9fbcfaab7f",
     "url": "/jimmychenphotography-react/index.html"
   },
   {
-    "revision": "a8f27d5bfc2e1151f7ef",
+    "revision": "74b1988daf3817c7c5be",
     "url": "/jimmychenphotography-react/static/css/2.fe7e759a.chunk.css"
   },
   {
-    "revision": "d048ce026ec3732d3802",
+    "revision": "1087568b7ff206b88cd5",
     "url": "/jimmychenphotography-react/static/css/main.a785182f.chunk.css"
   },
   {
-    "revision": "a8f27d5bfc2e1151f7ef",
-    "url": "/jimmychenphotography-react/static/js/2.e74eb5d9.chunk.js"
+    "revision": "74b1988daf3817c7c5be",
+    "url": "/jimmychenphotography-react/static/js/2.7572ca21.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/jimmychenphotography-react/static/js/2.e74eb5d9.chunk.js.LICENSE.txt"
+    "url": "/jimmychenphotography-react/static/js/2.7572ca21.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d048ce026ec3732d3802",
-    "url": "/jimmychenphotography-react/static/js/main.4fa425e5.chunk.js"
+    "revision": "1087568b7ff206b88cd5",
+    "url": "/jimmychenphotography-react/static/js/main.317a814c.chunk.js"
   },
   {
     "revision": "57047a19275bb516846d",
