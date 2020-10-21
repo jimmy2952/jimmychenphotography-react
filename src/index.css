@@ -16,3 +16,9 @@ code {
 .lg-image {
   margin-top: 47px;
 }
+.lg-outer .lg-thumb-outer {
+  transform: translate3d(0,0%,0) !important;
+}
+.lg-outer.lg-thumb-open .lg-thumb-outer {
+  transform: translate3d(0,100%,0) !important;
+}
