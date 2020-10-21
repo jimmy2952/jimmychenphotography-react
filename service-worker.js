@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/jimmychenphotography-react/precache-manifest.94f1af288bc138eef68c9895e5f0b141.js"
+  "/jimmychenphotography-react/precache-manifest.416de2e422bffd7e65573eaea1f16b03.js"
 );
 
 self.addEventListener('message', (event) => {
